@@ -22,7 +22,7 @@ Predict whether a tumour is malignant or benign from 30 cell-nucleus measurement
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/breast-cancer-detection-ml.git
+git clone https://github.com/Rutuja0001/breast-cancer-detection-ml.git
 cd breast-cancer-detection-ml
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
